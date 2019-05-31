@@ -1,2 +1,2 @@
 # Data-Science
-Data Science Projects
+Compilation of different machine learning and deep learning libraries and projects based on them.
