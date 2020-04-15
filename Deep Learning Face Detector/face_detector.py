@@ -1,4 +1,7 @@
 '''
+Author
+MiKueen: https://github.com/MiKueen
+
 USAGE
 - Image Input
 python face_detector.py --image <path/to/image/file> --prototxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel
