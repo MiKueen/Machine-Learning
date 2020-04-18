@@ -2,7 +2,7 @@
 # python scanner.py --image <path/to/image/file>
 
 # import required libraries
-from util import four_point_transform
+from imutils.perspective import four_point_transform
 from skimage.filters import threshold_local
 import numpy as np
 import argparse
